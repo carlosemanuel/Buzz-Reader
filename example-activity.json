@@ -1,0 +1,70 @@
+"items": [
+	{
+		"kind": "buzz#activity",
+		"title": "? ãnha é o hamburguer de picanha ?",
+		"published": "2011-03-16T00:18:51.000Z",
+		"updated": "2011-03-16T00:18:52.144Z",
+		"id": "tag:google.com,2010:buzz:z123t5aa5xnhwjole22zctbbqwjetj1sc",
+		"links": {
+			"liked": [
+				{
+					"href": "https://www.googleapis.com/buzz/v1/activities/107127531950324203676/@self/B:z123t5aa5xnhwjole22zctbbqwjetj1sc/@liked?alt=json",
+					"type": "application/json",
+					"count": 0
+				}
+			],
+			"alternate": [
+				{
+					"href": "https://profiles.google.com/jpergentino/posts/88iBF7aq53t",
+					"type": "text/html"
+				}
+			],
+			"replies": [
+				{
+					"href": "https://www.googleapis.com/buzz/v1/activities/107127531950324203676/@self/B:z123t5aa5xnhwjole22zctbbqwjetj1sc/@comments?alt=json",
+					"type": "application/json",
+					"count": 0,
+					"updated": "2011-03-16T00:18:52.144Z"
+				}
+			],
+			"self": [
+				{
+					"href": "https://www.googleapis.com/buzz/v1/activities/107127531950324203676/@self/B:z123t5aa5xnhwjole22zctbbqwjetj1sc?alt=json",
+					"type": "application/json"
+				}
+			]
+		},
+		"actor": {
+			"id": "107127531950324203676",
+			"name": "Pergentino Araújo",
+			"profileUrl": "https://profiles.google.com/jpergentino",
+			"thumbnailUrl": "http://www.google.com/s2/photos/public/AIbEiAIAAABDCJyBycK6kYX1YiILdmNhcmRfcGhvdG8qKDFkZmFkZTVlMDI1Nzc5MDQ5NTU5OGJlNzE4ZThmMDgzNWFmNDZjY2IwAYekCpV8bYalwM8nN7c_ebqVixmh"
+		},
+		"verbs": [
+			"post"
+		]
+		"object": {
+			"type": "note",
+			"content": "? ãnha é o hamburguer de picanha ?",
+			"links": {
+				"alternate": [
+					{
+						"href": "https://profiles.google.com/jpergentino/posts/88iBF7aq53t",
+						"type": "text/html"
+					}
+				]
+			}
+		},
+		"source": {
+		"title": "Google chat status"
+		},
+		"visibility": {
+			"entries": [
+				{
+					"id": "G:@me:@public",
+					"title": "Public"
+				}
+			]
+		}
+	}
+]
